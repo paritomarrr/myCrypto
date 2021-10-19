@@ -1,0 +1,15 @@
+nav {
+  font-size: 50px;
+  letter-spacing: 15px;
+  margin-bottom: 20px;
+}
+nav span {
+  color: rgb(0, 174, 255);
+}
+
+@media screen and (max-width: 900px) {
+  nav {
+    text-align: center;
+    font-size: 30px;
+  }
+}
